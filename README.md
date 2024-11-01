@@ -11,7 +11,7 @@
 
 ## Sobre mi
 
-- ❤️💻 Desarrollador de Software con pasión por crear soluciones funcionales y eficientes en backend y frontend.
+- ❤️💻 Desarrollador de Software.
 - 🔓 Comparto mis proyectos para que veas en qué estoy trabajando y si encuentrás algo que te sea útil,¡Mejor aún!
 - 📚 Actualmente cursando Desarrollo de Aplicaciones Multiplataforma (DAM) , 2023-2025
 - 🌱 En constante aprendizaje, ya sea creando un afinador de guitarra inteligente, experimentando con Fragments en Android, o probando nuevas herramientas backend.
