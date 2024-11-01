@@ -11,15 +11,15 @@
 
 ## Sobre mi
 
-- ⭐ Github Star ⭐ 
-- 📲 Mobile developer
-- 🎥 Te enseño a programar apps en [Youtube](https://youtube.com/aristidevs?sub_confirmation=1) (+62k subs)
-- ✏️ Y por escrito en [CursoKotlin](https://cursokotlin.com)
-- 📗 Autor del libro [Iniciación a Android en Kotlin. Casos prácticos](https://www.paraninfo.es/catalogo/9788428340922/iniciacion-a-android-en-kotlin--casos-practicos)
-- 🧑‍🏫 Creador de [AppCademy](https://appcademy.dev)
+-❤️💻 Desarrollador de Software con pasión por crear soluciones funcionales y eficientes en backend y frontend.
+- 🔓 Comparto mis proyectos para que veas en qué estoy trabajando y si encuentrás algo que te sea útil,¡Mejor aún!
+- 📚 Actualmente cursando Desarrollo de Aplicaciones Multiplataforma (DAM) , 2023-2025
+- 🌱 En constante aprendizaje, ya sea creando un afinador de guitarra inteligente, experimentando con Fragments en Android, o probando nuevas herramientas backend.
+- 🎯 Disfruto cada proyecto que realizo, ya sea para aprender o para resolver problemas reales, siempre enfocado en el detalle y en la utilidad.
+
 <br>
 
-## Proyectos *bombitas*
+## Proyectos 
 <table>
 <tr>
 <td width="50%">
