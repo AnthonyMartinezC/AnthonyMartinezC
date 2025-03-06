@@ -7,7 +7,7 @@
 ![GitHub followers](https://img.shields.io/github/followers/AnthonyMartinezC?style=flat-square&logo=github)
 ![](https://komarev.com/ghpvc/?username=AnthonyMartinezC&color=blue)
 
-
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7B219&width=435&lines=Hola%2C+Soy+Anthony+Mart%C3%ADnez;%C2%A1Te+doy+la+bienvenida+a+mi+perfil!;Estudiante+de+2%C2%BA+de+DAM+;Estoy+buscando+pr%C3%A1cticas+" alt="Typing SVG" /></a>
 ## Sobre mi
 
 - ❤️💻 Desarrollador de Software.
