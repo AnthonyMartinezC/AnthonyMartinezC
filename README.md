@@ -5,7 +5,8 @@
 
 
 ![GitHub followers](https://img.shields.io/github/followers/AnthonyMartinezC?style=flat-square&logo=github)
-![](https://komarev.com/ghpvc/?username=AnthonyMartinezC&color=blue)
+![](https://komarev.com/ghpvc/?username=AnthonyMartinezC&color=blue)      
+
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7B219&width=435&lines=Hola%2C+Soy+Anthony+Mart%C3%ADnez;%C2%A1Te+doy+la+bienvenida+a+mi+perfil!;Estudiante+de+2%C2%BA+de+DAM+;Estoy+buscando+pr%C3%A1cticas+" alt="Typing SVG" /></a>
 ## Sobre mi
@@ -14,7 +15,10 @@
 - 🔓 Comparto mis proyectos para que veas en qué estoy trabajando y si encuentrás algo que te sea útil,¡Mejor aún!
 - 📚 2º curso de Desarrollo de Aplicaciones Multiplataforma (DAM)
 - 🌱 Creciendo en backend y tengo interes en aprender cloud. 
-  
+<p align="center">
+  <img src="https://media.giphy.com/media/78XCFBGOlS6keY1Bil/giphy.gif?cid=790b76112ism7vqnvsqj5tfptlx03gse1cnqnyc8lsjyzbr6&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="200">
+</p>
+
 
 <br>
 
