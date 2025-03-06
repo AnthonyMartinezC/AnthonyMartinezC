@@ -18,6 +18,10 @@
 
 <br>
 
+## Stack tecnológico 
+![GitLab Language Count](https://img.shields.io/gitlab/languages/count/:project)
+
+
 ## Proyectos 
 <table>
 <tr>
