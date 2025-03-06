@@ -19,7 +19,7 @@
 <br>
 
 ## Stack tecnológico 
-![GitLab Language Count](https://img.shields.io/gitlab/languages/count/:project)
+<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=MarikIshtar007&layout=compact">
 
 
 ## Proyectos 
