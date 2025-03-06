@@ -1,7 +1,7 @@
 <div align="center">
 <h1 align="center">Hola, soy <a href="">Anthony</a> 👋</h1>
 </div>
-<img src="https://i.imgur.com/qojoAFZ.png">
+
 
 
 ![GitHub followers](https://img.shields.io/github/followers/AnthonyMartinezC?style=flat-square&logo=github)
