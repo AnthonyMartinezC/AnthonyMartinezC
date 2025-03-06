@@ -12,9 +12,9 @@
 
 - ❤️💻 Desarrollador de Software.
 - 🔓 Comparto mis proyectos para que veas en qué estoy trabajando y si encuentrás algo que te sea útil,¡Mejor aún!
-- 📚 Actualmente cursando Desarrollo de Aplicaciones Multiplataforma (DAM) , 2023-2025
-- 🌱 En constante aprendizaje, ya sea creando un afinador de guitarra inteligente, experimentando con Fragments en Android, o probando nuevas herramientas backend.
-- 🎯 Disfruto cada proyecto que realizo, ya sea para aprender o para resolver problemas reales, siempre enfocado en el detalle y en la utilidad.
+- 📚 2º curso de Desarrollo de Aplicaciones Multiplataforma (DAM)
+- 🌱 Creciendo en backend y tengo interes en aprender cloud. 
+  
 
 <br>
 
