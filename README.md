@@ -5,7 +5,7 @@
 
 
 ![GitHub followers](https://img.shields.io/github/followers/AnthonyMartinezC?style=flat-square&logo=github)
-
+![](https://komarev.com/ghpvc/?username=AnthonyMartinezC&color=blue)
 
 
 ## Sobre mi
