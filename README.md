@@ -8,7 +8,7 @@
 ![](https://komarev.com/ghpvc/?username=AnthonyMartinezC&color=blue)      
 
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hola+%2Csoy+Anthony+Martinez;%C2%A1Te+doy+la+bienvenida+a+mi+perfil!;Podemos+agregarnos+a+LinkedIn+si+quieres.+" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hola+%2Csoy+Anthony+Martinez;%C2%A1Te+doy+la+bienvenida+a+mi+perfil!" alt="Typing SVG" /></a>
 ## Sobre mi
 
 - ❤️💻 Desarrollador de Software.
