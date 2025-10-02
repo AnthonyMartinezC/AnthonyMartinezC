@@ -13,8 +13,8 @@
 
 - ❤️💻 Desarrollador de Software.
 - 🔓 Comparto mis proyectos para que veas en qué estoy trabajando y si encuentrás algo que te sea útil,¡Mejor aún!
-- 📚 2º curso de Desarrollo de Aplicaciones Multiplataforma (DAM)
-- 🌱 Creciendo en backend y tengo interes en aprender cloud. 
+- 📚 Graduado en Desarrollo de aplicaciones multiplataforma(DAM)
+- 🌱 Creciendo en backend y cloud. 
 <p align="center">
   <img src="https://media.giphy.com/media/78XCFBGOlS6keY1Bil/giphy.gif?cid=790b76112ism7vqnvsqj5tfptlx03gse1cnqnyc8lsjyzbr6&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="200">
 </p>
