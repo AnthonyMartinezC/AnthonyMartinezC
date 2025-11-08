@@ -1,5 +1,4 @@
 <div align="center">
-<h1 align="center">Hola, soy <a href="">Anthony</a> 👋</h1>
 </div>
 
 
