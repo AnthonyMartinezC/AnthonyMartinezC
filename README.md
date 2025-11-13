@@ -8,7 +8,7 @@
 
 ## Sobre mi
 
-- ❤️💻 Desarrollador de Software.
+- ❤️💻 Desarrollador Backend Java
 - 🔓 Comparto mis proyectos para que veas en qué estoy trabajando y si encuentrás algo que te sea útil,¡Mejor aún!
 - 📚 Graduado en Desarrollo de aplicaciones multiplataforma(DAM)
 - 🌱 Creciendo en backend y cloud. 
