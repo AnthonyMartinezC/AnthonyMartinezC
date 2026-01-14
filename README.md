@@ -34,6 +34,9 @@
 Proyecto donde creo una aplicaciónn que sirve como asistente de Viaje personal usando SpringBoot, JUnit y multiples APIs.
 Su objetivo: El usuario introduzca su destino y el sistema recopile automáticamente el clima, tipo de cambio , información del país y frases útiles.
 
+(Haz Click en el titulo del proyecto, para ir al repositorio)
+
+
 <br>
  
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
