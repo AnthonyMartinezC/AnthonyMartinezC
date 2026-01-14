@@ -30,8 +30,9 @@
 
 ## 🧩 Proyectos 
    
-# Sistema de consultas a múltiples APIs con Java
-
+### [Sistema de consultas a múltiples APIs con Java](https://github.com/AnthonyMartinezC/project-Asistente-de-viaje-personal)
+Proyecto donde creo una aplicaciónn que sirve como asistente de Viaje personal usando SpringBoot, JUnit y multiples APIs.
+Su objetivo: El usuario introduzca su destino y el sistema recopile automáticamente el clima, tipo de cambio , información del país y frases útiles.
 
 <br>
  
