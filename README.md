@@ -16,19 +16,18 @@
 
 <br>
 
-##  🛠️ My Skills
+##  Tecnologías 
 <span>
+<img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white">
 <img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white">
 <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white">
-<img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white">
 <img src="https://img.shields.io/badge/javacript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
-<img src="https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white">
 <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
-<img src="https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white">
+
 
 </span>
 
-## 🧩 Proyectos 
+##  Proyectos 
    
 ### [Sistema de consultas a múltiples APIs con Java](https://github.com/AnthonyMartinezC/project-Asistente-de-viaje-personal)
 Proyecto donde creo una aplicaciónn que sirve como asistente de Viaje personal usando SpringBoot, JUnit y multiples APIs.
